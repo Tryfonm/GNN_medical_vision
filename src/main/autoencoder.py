@@ -87,22 +87,45 @@ class Autoencoder(nn.Module):
         self._dim_2 = dim_2
 
         self.encoder = Encoder(
-            conv_out_channels=self.conv_out_channels, embedding_size=self.embedding_size, dim_0=self._dim_0, dim_1=self._dim_1, dim_2=self._dim_2
+            conv_out_channels=self.conv_out_channels,
+            embedding_size=self.embedding_size,
+            dim_0=self._dim_0,
+            dim_1=self._dim_1,
+            dim_2=self._dim_2,
         )
         self.decoder = Decoder(
-            conv_in_channels=self.conv_in_channels, embedding_size=self.embedding_size, dim_0=self._dim_0, dim_1=self._dim_1, dim_2=self._dim_2
+            conv_in_channels=self.conv_in_channels,
+            embedding_size=self.embedding_size,
+            dim_0=self._dim_0,
+            dim_1=self._dim_1,
+            dim_2=self._dim_2,
         )
 
     def forward(self, x):
         encoder_output = self.encoder(x)
         decoder_output = self.decoder(encoder_output)
         return encoder_output, decoder_output
-    
 
 
 if __name__ == "__main__":
-    x = torch.randn((1, 1, 240, 240, 154))
-    
-    autoencoder = Autoencoder(conv_in_channels=8, conv_out_channels=8, embedding_size=32, dim_0=240, dim_1=240, dim_2=154)
+    batch_size = 1
+    conv_channels = 1
+    dim_0 = 240
+    dim_1 = 240
+    dim_2 = 154
+    x = torch.randn((batch_size, conv_channels, dim_0, dim_1, dim_2))
+
+    autoencoder = Autoencoder(
+        conv_in_channels=8,
+        conv_out_channels=8,
+        embedding_size=32,
+        dim_0=240,
+        dim_1=240,
+        dim_2=154,
+    )
     encoder_output, decoder_output = autoencoder(x)
-    print(decoder_output.shape)
+
+    assert encoder_output.shape == torch.Size([batch_size, 32])
+    assert decoder_output.shape == torch.Size(
+        [batch_size, conv_channels, dim_0, dim_1, dim_2]
+    )
