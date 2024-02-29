@@ -70,5 +70,4 @@ if __name__ == "__main__":
     model = GAT(g, in_dim=feature_size, hidden_dim=32, out_dim=32, num_heads=1)
     output = model(g, g.ndata["feat"])
 
-    print(output.shape, in_dim, feature_size)
     assert output.shape == torch.Size([in_dim, feature_size])
