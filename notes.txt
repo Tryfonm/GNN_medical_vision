@@ -1,0 +1,25 @@
+check hyperparmeters - overview ...
+lower level implementation of the convs
+pytorch implementation on the dataset/gnn
+expand graph generation to multiple times.
+check slic optimization
+ready the pipeline and 
+compare 2d sliuc to 3d.
+
+# ------------------------------------------ #
+
+research question
+expertiments how are defined
+introduce dataset
+- labels and histograms
+
+
+
+f1 starting point, AUC
+
+flucnctuations small dataset might cause this; might be affiliated with loss being a continous
+
+crop the data such that the distribution is close to each other.
+
+check slic for arguments for imbalanceness
+

@@ -1,0 +1,1032 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-03-04">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="(0, 0, 0)" label="(0, 0, 0)" />
+      <node id="(0, 0, 1)" label="(0, 0, 1)" />
+      <node id="(0, 0, 4)" label="(0, 0, 4)" />
+      <node id="(0, 0, 7)" label="(0, 0, 7)" />
+      <node id="(0, 1, 4)" label="(0, 1, 4)" />
+      <node id="(0, 2, 0)" label="(0, 2, 0)" />
+      <node id="(0, 2, 6)" label="(0, 2, 6)" />
+      <node id="(0, 3, 1)" label="(0, 3, 1)" />
+      <node id="(0, 3, 6)" label="(0, 3, 6)" />
+      <node id="(0, 3, 7)" label="(0, 3, 7)" />
+      <node id="(0, 6, 7)" label="(0, 6, 7)" />
+      <node id="(0, 7, 0)" label="(0, 7, 0)" />
+      <node id="(0, 7, 4)" label="(0, 7, 4)" />
+      <node id="(0, 7, 7)" label="(0, 7, 7)" />
+      <node id="(1, 0, 2)" label="(1, 0, 2)" />
+      <node id="(1, 0, 4)" label="(1, 0, 4)" />
+      <node id="(1, 0, 6)" label="(1, 0, 6)" />
+      <node id="(1, 2, 3)" label="(1, 2, 3)" />
+      <node id="(1, 2, 4)" label="(1, 2, 4)" />
+      <node id="(1, 2, 5)" label="(1, 2, 5)" />
+      <node id="(1, 3, 0)" label="(1, 3, 0)" />
+      <node id="(1, 3, 1)" label="(1, 3, 1)" />
+      <node id="(1, 4, 2)" label="(1, 4, 2)" />
+      <node id="(1, 4, 3)" label="(1, 4, 3)" />
+      <node id="(1, 5, 0)" label="(1, 5, 0)" />
+      <node id="(1, 5, 3)" label="(1, 5, 3)" />
+      <node id="(1, 5, 4)" label="(1, 5, 4)" />
+      <node id="(1, 6, 5)" label="(1, 6, 5)" />
+      <node id="(1, 7, 2)" label="(1, 7, 2)" />
+      <node id="(1, 7, 3)" label="(1, 7, 3)" />
+      <node id="(2, 0, 0)" label="(2, 0, 0)" />
+      <node id="(2, 1, 0)" label="(2, 1, 0)" />
+      <node id="(2, 1, 1)" label="(2, 1, 1)" />
+      <node id="(2, 1, 2)" label="(2, 1, 2)" />
+      <node id="(2, 1, 6)" label="(2, 1, 6)" />
+      <node id="(2, 1, 7)" label="(2, 1, 7)" />
+      <node id="(2, 2, 0)" label="(2, 2, 0)" />
+      <node id="(2, 2, 5)" label="(2, 2, 5)" />
+      <node id="(2, 2, 7)" label="(2, 2, 7)" />
+      <node id="(2, 4, 0)" label="(2, 4, 0)" />
+      <node id="(2, 4, 5)" label="(2, 4, 5)" />
+      <node id="(2, 4, 6)" label="(2, 4, 6)" />
+      <node id="(2, 5, 2)" label="(2, 5, 2)" />
+      <node id="(2, 5, 3)" label="(2, 5, 3)" />
+      <node id="(2, 6, 1)" label="(2, 6, 1)" />
+      <node id="(2, 6, 2)" label="(2, 6, 2)" />
+      <node id="(2, 6, 4)" label="(2, 6, 4)" />
+      <node id="(3, 0, 4)" label="(3, 0, 4)" />
+      <node id="(3, 0, 5)" label="(3, 0, 5)" />
+      <node id="(3, 1, 1)" label="(3, 1, 1)" />
+      <node id="(3, 1, 2)" label="(3, 1, 2)" />
+      <node id="(3, 1, 3)" label="(3, 1, 3)" />
+      <node id="(3, 1, 6)" label="(3, 1, 6)" />
+      <node id="(3, 2, 2)" label="(3, 2, 2)" />
+      <node id="(3, 2, 6)" label="(3, 2, 6)" />
+      <node id="(3, 3, 3)" label="(3, 3, 3)" />
+      <node id="(3, 4, 0)" label="(3, 4, 0)" />
+      <node id="(3, 4, 6)" label="(3, 4, 6)" />
+      <node id="(3, 6, 5)" label="(3, 6, 5)" />
+      <node id="(3, 7, 2)" label="(3, 7, 2)" />
+      <node id="(3, 7, 7)" label="(3, 7, 7)" />
+      <node id="(4, 0, 1)" label="(4, 0, 1)" />
+      <node id="(4, 0, 2)" label="(4, 0, 2)" />
+      <node id="(4, 1, 0)" label="(4, 1, 0)" />
+      <node id="(4, 1, 4)" label="(4, 1, 4)" />
+      <node id="(4, 2, 5)" label="(4, 2, 5)" />
+      <node id="(4, 3, 4)" label="(4, 3, 4)" />
+      <node id="(4, 4, 2)" label="(4, 4, 2)" />
+      <node id="(4, 5, 1)" label="(4, 5, 1)" />
+      <node id="(4, 5, 2)" label="(4, 5, 2)" />
+      <node id="(4, 5, 3)" label="(4, 5, 3)" />
+      <node id="(4, 5, 7)" label="(4, 5, 7)" />
+      <node id="(4, 6, 6)" label="(4, 6, 6)" />
+      <node id="(4, 7, 4)" label="(4, 7, 4)" />
+      <node id="(5, 0, 1)" label="(5, 0, 1)" />
+      <node id="(5, 0, 2)" label="(5, 0, 2)" />
+      <node id="(5, 0, 4)" label="(5, 0, 4)" />
+      <node id="(5, 1, 2)" label="(5, 1, 2)" />
+      <node id="(5, 1, 6)" label="(5, 1, 6)" />
+      <node id="(5, 2, 4)" label="(5, 2, 4)" />
+      <node id="(5, 3, 0)" label="(5, 3, 0)" />
+      <node id="(5, 3, 7)" label="(5, 3, 7)" />
+      <node id="(5, 4, 1)" label="(5, 4, 1)" />
+      <node id="(5, 4, 3)" label="(5, 4, 3)" />
+      <node id="(5, 5, 0)" label="(5, 5, 0)" />
+      <node id="(5, 5, 7)" label="(5, 5, 7)" />
+      <node id="(5, 6, 1)" label="(5, 6, 1)" />
+      <node id="(5, 6, 3)" label="(5, 6, 3)" />
+      <node id="(5, 6, 4)" label="(5, 6, 4)" />
+      <node id="(6, 0, 0)" label="(6, 0, 0)" />
+      <node id="(6, 0, 1)" label="(6, 0, 1)" />
+      <node id="(6, 0, 5)" label="(6, 0, 5)" />
+      <node id="(6, 0, 6)" label="(6, 0, 6)" />
+      <node id="(6, 1, 0)" label="(6, 1, 0)" />
+      <node id="(6, 1, 4)" label="(6, 1, 4)" />
+      <node id="(6, 1, 5)" label="(6, 1, 5)" />
+      <node id="(6, 2, 6)" label="(6, 2, 6)" />
+      <node id="(6, 2, 7)" label="(6, 2, 7)" />
+      <node id="(6, 3, 2)" label="(6, 3, 2)" />
+      <node id="(6, 3, 3)" label="(6, 3, 3)" />
+      <node id="(6, 3, 4)" label="(6, 3, 4)" />
+      <node id="(6, 3, 5)" label="(6, 3, 5)" />
+      <node id="(6, 4, 2)" label="(6, 4, 2)" />
+      <node id="(6, 4, 5)" label="(6, 4, 5)" />
+      <node id="(6, 4, 6)" label="(6, 4, 6)" />
+      <node id="(6, 5, 0)" label="(6, 5, 0)" />
+      <node id="(6, 5, 2)" label="(6, 5, 2)" />
+      <node id="(6, 5, 7)" label="(6, 5, 7)" />
+      <node id="(6, 6, 0)" label="(6, 6, 0)" />
+      <node id="(6, 6, 1)" label="(6, 6, 1)" />
+      <node id="(6, 6, 2)" label="(6, 6, 2)" />
+      <node id="(6, 6, 5)" label="(6, 6, 5)" />
+      <node id="(7, 0, 5)" label="(7, 0, 5)" />
+      <node id="(7, 0, 7)" label="(7, 0, 7)" />
+      <node id="(7, 2, 0)" label="(7, 2, 0)" />
+      <node id="(7, 2, 1)" label="(7, 2, 1)" />
+      <node id="(7, 2, 2)" label="(7, 2, 2)" />
+      <node id="(7, 2, 6)" label="(7, 2, 6)" />
+      <node id="(7, 3, 1)" label="(7, 3, 1)" />
+      <node id="(7, 4, 1)" label="(7, 4, 1)" />
+      <node id="(7, 4, 7)" label="(7, 4, 7)" />
+      <node id="(7, 5, 4)" label="(7, 5, 4)" />
+      <node id="(7, 5, 5)" label="(7, 5, 5)" />
+      <node id="(7, 7, 4)" label="(7, 7, 4)" />
+      <node id="(7, 7, 7)" label="(7, 7, 7)" />
+      <node id="(0, 0, 2)" label="(0, 0, 2)" />
+      <node id="(0, 1, 0)" label="(0, 1, 0)" />
+      <node id="(0, 1, 2)" label="(0, 1, 2)" />
+      <node id="(0, 2, 4)" label="(0, 2, 4)" />
+      <node id="(0, 2, 5)" label="(0, 2, 5)" />
+      <node id="(0, 2, 7)" label="(0, 2, 7)" />
+      <node id="(0, 3, 4)" label="(0, 3, 4)" />
+      <node id="(0, 3, 5)" label="(0, 3, 5)" />
+      <node id="(0, 4, 0)" label="(0, 4, 0)" />
+      <node id="(0, 4, 2)" label="(0, 4, 2)" />
+      <node id="(0, 4, 5)" label="(0, 4, 5)" />
+      <node id="(0, 5, 1)" label="(0, 5, 1)" />
+      <node id="(0, 5, 3)" label="(0, 5, 3)" />
+      <node id="(0, 5, 4)" label="(0, 5, 4)" />
+      <node id="(0, 5, 5)" label="(0, 5, 5)" />
+      <node id="(0, 6, 3)" label="(0, 6, 3)" />
+      <node id="(0, 6, 6)" label="(0, 6, 6)" />
+      <node id="(0, 7, 2)" label="(0, 7, 2)" />
+      <node id="(0, 7, 5)" label="(0, 7, 5)" />
+      <node id="(0, 7, 6)" label="(0, 7, 6)" />
+      <node id="(1, 0, 0)" label="(1, 0, 0)" />
+      <node id="(1, 0, 3)" label="(1, 0, 3)" />
+      <node id="(1, 1, 3)" label="(1, 1, 3)" />
+      <node id="(1, 2, 2)" label="(1, 2, 2)" />
+      <node id="(1, 3, 2)" label="(1, 3, 2)" />
+      <node id="(1, 4, 5)" label="(1, 4, 5)" />
+      <node id="(1, 4, 7)" label="(1, 4, 7)" />
+      <node id="(1, 5, 5)" label="(1, 5, 5)" />
+      <node id="(1, 5, 6)" label="(1, 5, 6)" />
+      <node id="(1, 6, 1)" label="(1, 6, 1)" />
+      <node id="(1, 6, 2)" label="(1, 6, 2)" />
+      <node id="(1, 6, 4)" label="(1, 6, 4)" />
+      <node id="(1, 7, 1)" label="(1, 7, 1)" />
+      <node id="(1, 7, 5)" label="(1, 7, 5)" />
+      <node id="(2, 0, 5)" label="(2, 0, 5)" />
+      <node id="(2, 1, 3)" label="(2, 1, 3)" />
+      <node id="(2, 3, 5)" label="(2, 3, 5)" />
+      <node id="(2, 4, 1)" label="(2, 4, 1)" />
+      <node id="(2, 4, 7)" label="(2, 4, 7)" />
+      <node id="(2, 5, 5)" label="(2, 5, 5)" />
+      <node id="(2, 6, 3)" label="(2, 6, 3)" />
+      <node id="(2, 6, 5)" label="(2, 6, 5)" />
+      <node id="(2, 7, 0)" label="(2, 7, 0)" />
+      <node id="(2, 7, 2)" label="(2, 7, 2)" />
+      <node id="(2, 7, 7)" label="(2, 7, 7)" />
+      <node id="(3, 0, 2)" label="(3, 0, 2)" />
+      <node id="(3, 0, 3)" label="(3, 0, 3)" />
+      <node id="(3, 2, 0)" label="(3, 2, 0)" />
+      <node id="(3, 2, 1)" label="(3, 2, 1)" />
+      <node id="(3, 2, 4)" label="(3, 2, 4)" />
+      <node id="(3, 2, 7)" label="(3, 2, 7)" />
+      <node id="(3, 3, 2)" label="(3, 3, 2)" />
+      <node id="(3, 4, 1)" label="(3, 4, 1)" />
+      <node id="(3, 5, 3)" label="(3, 5, 3)" />
+      <node id="(3, 5, 4)" label="(3, 5, 4)" />
+      <node id="(3, 5, 5)" label="(3, 5, 5)" />
+      <node id="(3, 6, 1)" label="(3, 6, 1)" />
+      <node id="(3, 6, 3)" label="(3, 6, 3)" />
+      <node id="(3, 6, 4)" label="(3, 6, 4)" />
+      <node id="(3, 7, 1)" label="(3, 7, 1)" />
+      <node id="(4, 0, 3)" label="(4, 0, 3)" />
+      <node id="(4, 0, 6)" label="(4, 0, 6)" />
+      <node id="(4, 0, 7)" label="(4, 0, 7)" />
+      <node id="(4, 1, 2)" label="(4, 1, 2)" />
+      <node id="(4, 1, 3)" label="(4, 1, 3)" />
+      <node id="(4, 2, 0)" label="(4, 2, 0)" />
+      <node id="(4, 2, 3)" label="(4, 2, 3)" />
+      <node id="(4, 3, 6)" label="(4, 3, 6)" />
+      <node id="(4, 4, 1)" label="(4, 4, 1)" />
+      <node id="(4, 4, 5)" label="(4, 4, 5)" />
+      <node id="(4, 5, 5)" label="(4, 5, 5)" />
+      <node id="(4, 6, 0)" label="(4, 6, 0)" />
+      <node id="(4, 6, 3)" label="(4, 6, 3)" />
+      <node id="(4, 6, 7)" label="(4, 6, 7)" />
+      <node id="(4, 7, 0)" label="(4, 7, 0)" />
+      <node id="(4, 7, 5)" label="(4, 7, 5)" />
+      <node id="(4, 7, 6)" label="(4, 7, 6)" />
+      <node id="(5, 0, 6)" label="(5, 0, 6)" />
+      <node id="(5, 1, 1)" label="(5, 1, 1)" />
+      <node id="(5, 1, 4)" label="(5, 1, 4)" />
+      <node id="(5, 2, 3)" label="(5, 2, 3)" />
+      <node id="(5, 2, 5)" label="(5, 2, 5)" />
+      <node id="(5, 2, 7)" label="(5, 2, 7)" />
+      <node id="(5, 3, 5)" label="(5, 3, 5)" />
+      <node id="(5, 4, 2)" label="(5, 4, 2)" />
+      <node id="(5, 4, 4)" label="(5, 4, 4)" />
+      <node id="(5, 5, 4)" label="(5, 5, 4)" />
+      <node id="(5, 5, 6)" label="(5, 5, 6)" />
+      <node id="(5, 6, 2)" label="(5, 6, 2)" />
+      <node id="(5, 7, 7)" label="(5, 7, 7)" />
+      <node id="(6, 0, 2)" label="(6, 0, 2)" />
+      <node id="(6, 1, 2)" label="(6, 1, 2)" />
+      <node id="(6, 1, 6)" label="(6, 1, 6)" />
+      <node id="(6, 2, 1)" label="(6, 2, 1)" />
+      <node id="(6, 2, 3)" label="(6, 2, 3)" />
+      <node id="(6, 3, 7)" label="(6, 3, 7)" />
+      <node id="(6, 4, 3)" label="(6, 4, 3)" />
+      <node id="(6, 4, 4)" label="(6, 4, 4)" />
+      <node id="(6, 4, 7)" label="(6, 4, 7)" />
+      <node id="(6, 5, 1)" label="(6, 5, 1)" />
+      <node id="(6, 5, 3)" label="(6, 5, 3)" />
+      <node id="(6, 5, 6)" label="(6, 5, 6)" />
+      <node id="(6, 7, 0)" label="(6, 7, 0)" />
+      <node id="(6, 7, 1)" label="(6, 7, 1)" />
+      <node id="(6, 7, 2)" label="(6, 7, 2)" />
+      <node id="(6, 7, 6)" label="(6, 7, 6)" />
+      <node id="(6, 7, 7)" label="(6, 7, 7)" />
+      <node id="(7, 0, 1)" label="(7, 0, 1)" />
+      <node id="(7, 1, 0)" label="(7, 1, 0)" />
+      <node id="(7, 1, 7)" label="(7, 1, 7)" />
+      <node id="(7, 4, 3)" label="(7, 4, 3)" />
+      <node id="(7, 4, 4)" label="(7, 4, 4)" />
+      <node id="(7, 4, 6)" label="(7, 4, 6)" />
+      <node id="(7, 5, 0)" label="(7, 5, 0)" />
+      <node id="(7, 5, 1)" label="(7, 5, 1)" />
+      <node id="(7, 6, 0)" label="(7, 6, 0)" />
+      <node id="(7, 6, 4)" label="(7, 6, 4)" />
+      <node id="(7, 7, 1)" label="(7, 7, 1)" />
+      <node id="(0, 0, 3)" label="(0, 0, 3)" />
+      <node id="(0, 1, 1)" label="(0, 1, 1)" />
+      <node id="(0, 4, 1)" label="(0, 4, 1)" />
+      <node id="(0, 4, 4)" label="(0, 4, 4)" />
+      <node id="(0, 4, 6)" label="(0, 4, 6)" />
+      <node id="(0, 4, 7)" label="(0, 4, 7)" />
+      <node id="(0, 5, 2)" label="(0, 5, 2)" />
+      <node id="(0, 5, 6)" label="(0, 5, 6)" />
+      <node id="(0, 6, 2)" label="(0, 6, 2)" />
+      <node id="(0, 6, 4)" label="(0, 6, 4)" />
+      <node id="(0, 6, 5)" label="(0, 6, 5)" />
+      <node id="(0, 7, 1)" label="(0, 7, 1)" />
+      <node id="(0, 7, 3)" label="(0, 7, 3)" />
+      <node id="(1, 0, 5)" label="(1, 0, 5)" />
+      <node id="(1, 1, 0)" label="(1, 1, 0)" />
+      <node id="(1, 1, 4)" label="(1, 1, 4)" />
+      <node id="(1, 1, 6)" label="(1, 1, 6)" />
+      <node id="(1, 3, 3)" label="(1, 3, 3)" />
+      <node id="(1, 3, 4)" label="(1, 3, 4)" />
+      <node id="(1, 3, 5)" label="(1, 3, 5)" />
+      <node id="(1, 3, 6)" label="(1, 3, 6)" />
+      <node id="(1, 3, 7)" label="(1, 3, 7)" />
+      <node id="(1, 4, 0)" label="(1, 4, 0)" />
+      <node id="(1, 4, 1)" label="(1, 4, 1)" />
+      <node id="(1, 4, 6)" label="(1, 4, 6)" />
+      <node id="(1, 5, 2)" label="(1, 5, 2)" />
+      <node id="(1, 5, 7)" label="(1, 5, 7)" />
+      <node id="(1, 6, 0)" label="(1, 6, 0)" />
+      <node id="(1, 6, 6)" label="(1, 6, 6)" />
+      <node id="(1, 7, 0)" label="(1, 7, 0)" />
+      <node id="(1, 7, 6)" label="(1, 7, 6)" />
+      <node id="(2, 0, 2)" label="(2, 0, 2)" />
+      <node id="(2, 0, 3)" label="(2, 0, 3)" />
+      <node id="(2, 0, 6)" label="(2, 0, 6)" />
+      <node id="(2, 1, 4)" label="(2, 1, 4)" />
+      <node id="(2, 2, 2)" label="(2, 2, 2)" />
+      <node id="(2, 2, 3)" label="(2, 2, 3)" />
+      <node id="(2, 2, 6)" label="(2, 2, 6)" />
+      <node id="(2, 3, 6)" label="(2, 3, 6)" />
+      <node id="(2, 3, 7)" label="(2, 3, 7)" />
+      <node id="(2, 4, 3)" label="(2, 4, 3)" />
+      <node id="(2, 4, 4)" label="(2, 4, 4)" />
+      <node id="(2, 5, 1)" label="(2, 5, 1)" />
+      <node id="(2, 5, 4)" label="(2, 5, 4)" />
+      <node id="(2, 5, 6)" label="(2, 5, 6)" />
+      <node id="(2, 5, 7)" label="(2, 5, 7)" />
+      <node id="(2, 6, 0)" label="(2, 6, 0)" />
+      <node id="(2, 6, 6)" label="(2, 6, 6)" />
+      <node id="(2, 7, 1)" label="(2, 7, 1)" />
+      <node id="(2, 7, 4)" label="(2, 7, 4)" />
+      <node id="(2, 7, 6)" label="(2, 7, 6)" />
+      <node id="(3, 0, 0)" label="(3, 0, 0)" />
+      <node id="(3, 0, 1)" label="(3, 0, 1)" />
+      <node id="(3, 0, 6)" label="(3, 0, 6)" />
+      <node id="(3, 0, 7)" label="(3, 0, 7)" />
+      <node id="(3, 1, 5)" label="(3, 1, 5)" />
+      <node id="(3, 2, 3)" label="(3, 2, 3)" />
+      <node id="(3, 3, 4)" label="(3, 3, 4)" />
+      <node id="(3, 3, 5)" label="(3, 3, 5)" />
+      <node id="(3, 3, 6)" label="(3, 3, 6)" />
+      <node id="(3, 4, 2)" label="(3, 4, 2)" />
+      <node id="(3, 4, 3)" label="(3, 4, 3)" />
+      <node id="(3, 4, 7)" label="(3, 4, 7)" />
+      <node id="(3, 5, 2)" label="(3, 5, 2)" />
+      <node id="(3, 5, 6)" label="(3, 5, 6)" />
+      <node id="(3, 5, 7)" label="(3, 5, 7)" />
+      <node id="(3, 6, 0)" label="(3, 6, 0)" />
+      <node id="(3, 6, 6)" label="(3, 6, 6)" />
+      <node id="(3, 6, 7)" label="(3, 6, 7)" />
+      <node id="(3, 7, 4)" label="(3, 7, 4)" />
+      <node id="(3, 7, 5)" label="(3, 7, 5)" />
+      <node id="(3, 7, 6)" label="(3, 7, 6)" />
+      <node id="(4, 1, 1)" label="(4, 1, 1)" />
+      <node id="(4, 1, 5)" label="(4, 1, 5)" />
+      <node id="(4, 1, 7)" label="(4, 1, 7)" />
+      <node id="(4, 2, 1)" label="(4, 2, 1)" />
+      <node id="(4, 2, 7)" label="(4, 2, 7)" />
+      <node id="(4, 3, 1)" label="(4, 3, 1)" />
+      <node id="(4, 3, 7)" label="(4, 3, 7)" />
+      <node id="(4, 4, 0)" label="(4, 4, 0)" />
+      <node id="(4, 4, 3)" label="(4, 4, 3)" />
+      <node id="(4, 4, 4)" label="(4, 4, 4)" />
+      <node id="(4, 4, 7)" label="(4, 4, 7)" />
+      <node id="(4, 5, 0)" label="(4, 5, 0)" />
+      <node id="(4, 6, 1)" label="(4, 6, 1)" />
+      <node id="(4, 6, 4)" label="(4, 6, 4)" />
+      <node id="(4, 7, 2)" label="(4, 7, 2)" />
+      <node id="(4, 7, 3)" label="(4, 7, 3)" />
+      <node id="(4, 7, 7)" label="(4, 7, 7)" />
+      <node id="(5, 0, 7)" label="(5, 0, 7)" />
+      <node id="(5, 1, 0)" label="(5, 1, 0)" />
+      <node id="(5, 1, 5)" label="(5, 1, 5)" />
+      <node id="(5, 1, 7)" label="(5, 1, 7)" />
+      <node id="(5, 2, 2)" label="(5, 2, 2)" />
+      <node id="(5, 3, 3)" label="(5, 3, 3)" />
+      <node id="(5, 3, 4)" label="(5, 3, 4)" />
+      <node id="(5, 4, 0)" label="(5, 4, 0)" />
+      <node id="(5, 4, 7)" label="(5, 4, 7)" />
+      <node id="(5, 5, 3)" label="(5, 5, 3)" />
+      <node id="(5, 6, 7)" label="(5, 6, 7)" />
+      <node id="(5, 7, 0)" label="(5, 7, 0)" />
+      <node id="(5, 7, 5)" label="(5, 7, 5)" />
+      <node id="(5, 7, 6)" label="(5, 7, 6)" />
+      <node id="(6, 0, 7)" label="(6, 0, 7)" />
+      <node id="(6, 1, 1)" label="(6, 1, 1)" />
+      <node id="(6, 1, 7)" label="(6, 1, 7)" />
+      <node id="(6, 2, 5)" label="(6, 2, 5)" />
+      <node id="(6, 3, 0)" label="(6, 3, 0)" />
+      <node id="(6, 3, 1)" label="(6, 3, 1)" />
+      <node id="(6, 3, 6)" label="(6, 3, 6)" />
+      <node id="(6, 4, 0)" label="(6, 4, 0)" />
+      <node id="(6, 4, 1)" label="(6, 4, 1)" />
+      <node id="(6, 5, 4)" label="(6, 5, 4)" />
+      <node id="(6, 6, 6)" label="(6, 6, 6)" />
+      <node id="(6, 7, 3)" label="(6, 7, 3)" />
+      <node id="(6, 7, 4)" label="(6, 7, 4)" />
+      <node id="(7, 0, 0)" label="(7, 0, 0)" />
+      <node id="(7, 0, 2)" label="(7, 0, 2)" />
+      <node id="(7, 0, 3)" label="(7, 0, 3)" />
+      <node id="(7, 0, 6)" label="(7, 0, 6)" />
+      <node id="(7, 1, 1)" label="(7, 1, 1)" />
+      <node id="(7, 1, 2)" label="(7, 1, 2)" />
+      <node id="(7, 1, 3)" label="(7, 1, 3)" />
+      <node id="(7, 1, 4)" label="(7, 1, 4)" />
+      <node id="(7, 1, 6)" label="(7, 1, 6)" />
+      <node id="(7, 2, 3)" label="(7, 2, 3)" />
+      <node id="(7, 2, 5)" label="(7, 2, 5)" />
+      <node id="(7, 3, 0)" label="(7, 3, 0)" />
+      <node id="(7, 3, 3)" label="(7, 3, 3)" />
+      <node id="(7, 3, 5)" label="(7, 3, 5)" />
+      <node id="(7, 3, 6)" label="(7, 3, 6)" />
+      <node id="(7, 4, 0)" label="(7, 4, 0)" />
+      <node id="(7, 5, 2)" label="(7, 5, 2)" />
+      <node id="(7, 5, 3)" label="(7, 5, 3)" />
+      <node id="(7, 5, 6)" label="(7, 5, 6)" />
+      <node id="(7, 6, 2)" label="(7, 6, 2)" />
+      <node id="(7, 6, 3)" label="(7, 6, 3)" />
+      <node id="(7, 6, 5)" label="(7, 6, 5)" />
+      <node id="(7, 6, 6)" label="(7, 6, 6)" />
+      <node id="(7, 6, 7)" label="(7, 6, 7)" />
+      <node id="(7, 7, 3)" label="(7, 7, 3)" />
+      <node id="(7, 7, 6)" label="(7, 7, 6)" />
+      <node id="(0, 0, 5)" label="(0, 0, 5)" />
+      <node id="(0, 0, 6)" label="(0, 0, 6)" />
+      <node id="(0, 1, 3)" label="(0, 1, 3)" />
+      <node id="(0, 1, 5)" label="(0, 1, 5)" />
+      <node id="(0, 1, 6)" label="(0, 1, 6)" />
+      <node id="(0, 1, 7)" label="(0, 1, 7)" />
+      <node id="(0, 2, 1)" label="(0, 2, 1)" />
+      <node id="(0, 2, 2)" label="(0, 2, 2)" />
+      <node id="(0, 2, 3)" label="(0, 2, 3)" />
+      <node id="(0, 3, 0)" label="(0, 3, 0)" />
+      <node id="(0, 3, 2)" label="(0, 3, 2)" />
+      <node id="(0, 3, 3)" label="(0, 3, 3)" />
+      <node id="(0, 4, 3)" label="(0, 4, 3)" />
+      <node id="(0, 5, 0)" label="(0, 5, 0)" />
+      <node id="(0, 5, 7)" label="(0, 5, 7)" />
+      <node id="(0, 6, 0)" label="(0, 6, 0)" />
+      <node id="(0, 6, 1)" label="(0, 6, 1)" />
+      <node id="(1, 0, 1)" label="(1, 0, 1)" />
+      <node id="(1, 0, 7)" label="(1, 0, 7)" />
+      <node id="(1, 1, 1)" label="(1, 1, 1)" />
+      <node id="(1, 1, 2)" label="(1, 1, 2)" />
+      <node id="(1, 1, 5)" label="(1, 1, 5)" />
+      <node id="(1, 1, 7)" label="(1, 1, 7)" />
+      <node id="(1, 2, 0)" label="(1, 2, 0)" />
+      <node id="(1, 2, 1)" label="(1, 2, 1)" />
+      <node id="(1, 2, 6)" label="(1, 2, 6)" />
+      <node id="(1, 2, 7)" label="(1, 2, 7)" />
+      <node id="(1, 4, 4)" label="(1, 4, 4)" />
+      <node id="(1, 5, 1)" label="(1, 5, 1)" />
+      <node id="(1, 6, 3)" label="(1, 6, 3)" />
+      <node id="(1, 6, 7)" label="(1, 6, 7)" />
+      <node id="(1, 7, 4)" label="(1, 7, 4)" />
+      <node id="(1, 7, 7)" label="(1, 7, 7)" />
+      <node id="(2, 0, 1)" label="(2, 0, 1)" />
+      <node id="(2, 0, 4)" label="(2, 0, 4)" />
+      <node id="(2, 0, 7)" label="(2, 0, 7)" />
+      <node id="(2, 1, 5)" label="(2, 1, 5)" />
+      <node id="(2, 2, 1)" label="(2, 2, 1)" />
+      <node id="(2, 2, 4)" label="(2, 2, 4)" />
+      <node id="(2, 3, 0)" label="(2, 3, 0)" />
+      <node id="(2, 3, 1)" label="(2, 3, 1)" />
+      <node id="(2, 3, 2)" label="(2, 3, 2)" />
+      <node id="(2, 3, 3)" label="(2, 3, 3)" />
+      <node id="(2, 3, 4)" label="(2, 3, 4)" />
+      <node id="(2, 4, 2)" label="(2, 4, 2)" />
+      <node id="(2, 5, 0)" label="(2, 5, 0)" />
+      <node id="(2, 6, 7)" label="(2, 6, 7)" />
+      <node id="(2, 7, 3)" label="(2, 7, 3)" />
+      <node id="(2, 7, 5)" label="(2, 7, 5)" />
+      <node id="(3, 1, 0)" label="(3, 1, 0)" />
+      <node id="(3, 1, 4)" label="(3, 1, 4)" />
+      <node id="(3, 1, 7)" label="(3, 1, 7)" />
+      <node id="(3, 2, 5)" label="(3, 2, 5)" />
+      <node id="(3, 3, 0)" label="(3, 3, 0)" />
+      <node id="(3, 3, 1)" label="(3, 3, 1)" />
+      <node id="(3, 3, 7)" label="(3, 3, 7)" />
+      <node id="(3, 4, 4)" label="(3, 4, 4)" />
+      <node id="(3, 4, 5)" label="(3, 4, 5)" />
+      <node id="(3, 5, 0)" label="(3, 5, 0)" />
+      <node id="(3, 5, 1)" label="(3, 5, 1)" />
+      <node id="(3, 6, 2)" label="(3, 6, 2)" />
+      <node id="(3, 7, 0)" label="(3, 7, 0)" />
+      <node id="(3, 7, 3)" label="(3, 7, 3)" />
+      <node id="(4, 0, 0)" label="(4, 0, 0)" />
+      <node id="(4, 0, 4)" label="(4, 0, 4)" />
+      <node id="(4, 0, 5)" label="(4, 0, 5)" />
+      <node id="(4, 1, 6)" label="(4, 1, 6)" />
+      <node id="(4, 2, 2)" label="(4, 2, 2)" />
+      <node id="(4, 2, 4)" label="(4, 2, 4)" />
+      <node id="(4, 2, 6)" label="(4, 2, 6)" />
+      <node id="(4, 3, 0)" label="(4, 3, 0)" />
+      <node id="(4, 3, 2)" label="(4, 3, 2)" />
+      <node id="(4, 3, 3)" label="(4, 3, 3)" />
+      <node id="(4, 3, 5)" label="(4, 3, 5)" />
+      <node id="(4, 4, 6)" label="(4, 4, 6)" />
+      <node id="(4, 5, 4)" label="(4, 5, 4)" />
+      <node id="(4, 5, 6)" label="(4, 5, 6)" />
+      <node id="(4, 6, 2)" label="(4, 6, 2)" />
+      <node id="(4, 6, 5)" label="(4, 6, 5)" />
+      <node id="(4, 7, 1)" label="(4, 7, 1)" />
+      <node id="(5, 0, 0)" label="(5, 0, 0)" />
+      <node id="(5, 0, 3)" label="(5, 0, 3)" />
+      <node id="(5, 0, 5)" label="(5, 0, 5)" />
+      <node id="(5, 1, 3)" label="(5, 1, 3)" />
+      <node id="(5, 2, 0)" label="(5, 2, 0)" />
+      <node id="(5, 2, 1)" label="(5, 2, 1)" />
+      <node id="(5, 2, 6)" label="(5, 2, 6)" />
+      <node id="(5, 3, 1)" label="(5, 3, 1)" />
+      <node id="(5, 3, 2)" label="(5, 3, 2)" />
+      <node id="(5, 3, 6)" label="(5, 3, 6)" />
+      <node id="(5, 4, 5)" label="(5, 4, 5)" />
+      <node id="(5, 4, 6)" label="(5, 4, 6)" />
+      <node id="(5, 5, 1)" label="(5, 5, 1)" />
+      <node id="(5, 5, 2)" label="(5, 5, 2)" />
+      <node id="(5, 5, 5)" label="(5, 5, 5)" />
+      <node id="(5, 6, 0)" label="(5, 6, 0)" />
+      <node id="(5, 6, 5)" label="(5, 6, 5)" />
+      <node id="(5, 6, 6)" label="(5, 6, 6)" />
+      <node id="(5, 7, 1)" label="(5, 7, 1)" />
+      <node id="(5, 7, 2)" label="(5, 7, 2)" />
+      <node id="(5, 7, 3)" label="(5, 7, 3)" />
+      <node id="(5, 7, 4)" label="(5, 7, 4)" />
+      <node id="(6, 0, 3)" label="(6, 0, 3)" />
+      <node id="(6, 0, 4)" label="(6, 0, 4)" />
+      <node id="(6, 1, 3)" label="(6, 1, 3)" />
+      <node id="(6, 2, 0)" label="(6, 2, 0)" />
+      <node id="(6, 2, 2)" label="(6, 2, 2)" />
+      <node id="(6, 2, 4)" label="(6, 2, 4)" />
+      <node id="(6, 5, 5)" label="(6, 5, 5)" />
+      <node id="(6, 6, 3)" label="(6, 6, 3)" />
+      <node id="(6, 6, 4)" label="(6, 6, 4)" />
+      <node id="(6, 6, 7)" label="(6, 6, 7)" />
+      <node id="(6, 7, 5)" label="(6, 7, 5)" />
+      <node id="(7, 0, 4)" label="(7, 0, 4)" />
+      <node id="(7, 1, 5)" label="(7, 1, 5)" />
+      <node id="(7, 2, 4)" label="(7, 2, 4)" />
+      <node id="(7, 2, 7)" label="(7, 2, 7)" />
+      <node id="(7, 3, 2)" label="(7, 3, 2)" />
+      <node id="(7, 3, 4)" label="(7, 3, 4)" />
+      <node id="(7, 3, 7)" label="(7, 3, 7)" />
+      <node id="(7, 4, 2)" label="(7, 4, 2)" />
+      <node id="(7, 4, 5)" label="(7, 4, 5)" />
+      <node id="(7, 5, 7)" label="(7, 5, 7)" />
+      <node id="(7, 6, 1)" label="(7, 6, 1)" />
+      <node id="(7, 7, 0)" label="(7, 7, 0)" />
+      <node id="(7, 7, 2)" label="(7, 7, 2)" />
+      <node id="(7, 7, 5)" label="(7, 7, 5)" />
+    </nodes>
+    <edges>
+      <edge source="(0, 0, 0)" target="(0, 0, 1)" id="0" />
+      <edge source="(0, 0, 0)" target="(0, 0, 4)" id="1" />
+      <edge source="(0, 0, 0)" target="(0, 0, 7)" id="2" />
+      <edge source="(0, 0, 0)" target="(0, 1, 4)" id="3" />
+      <edge source="(0, 0, 0)" target="(0, 2, 0)" id="4" />
+      <edge source="(0, 0, 0)" target="(0, 2, 6)" id="5" />
+      <edge source="(0, 0, 0)" target="(0, 3, 1)" id="6" />
+      <edge source="(0, 0, 0)" target="(0, 3, 6)" id="7" />
+      <edge source="(0, 0, 0)" target="(0, 3, 7)" id="8" />
+      <edge source="(0, 0, 0)" target="(0, 6, 7)" id="9" />
+      <edge source="(0, 0, 0)" target="(0, 7, 0)" id="10" />
+      <edge source="(0, 0, 0)" target="(0, 7, 4)" id="11" />
+      <edge source="(0, 0, 0)" target="(0, 7, 7)" id="12" />
+      <edge source="(0, 0, 0)" target="(1, 0, 2)" id="13" />
+      <edge source="(0, 0, 0)" target="(1, 0, 4)" id="14" />
+      <edge source="(0, 0, 0)" target="(1, 0, 6)" id="15" />
+      <edge source="(0, 0, 0)" target="(1, 2, 3)" id="16" />
+      <edge source="(0, 0, 0)" target="(1, 2, 4)" id="17" />
+      <edge source="(0, 0, 0)" target="(1, 2, 5)" id="18" />
+      <edge source="(0, 0, 0)" target="(1, 3, 0)" id="19" />
+      <edge source="(0, 0, 0)" target="(1, 3, 1)" id="20" />
+      <edge source="(0, 0, 0)" target="(1, 4, 2)" id="21" />
+      <edge source="(0, 0, 0)" target="(1, 4, 3)" id="22" />
+      <edge source="(0, 0, 0)" target="(1, 5, 0)" id="23" />
+      <edge source="(0, 0, 0)" target="(1, 5, 3)" id="24" />
+      <edge source="(0, 0, 0)" target="(1, 5, 4)" id="25" />
+      <edge source="(0, 0, 0)" target="(1, 6, 5)" id="26" />
+      <edge source="(0, 0, 0)" target="(1, 7, 2)" id="27" />
+      <edge source="(0, 0, 0)" target="(1, 7, 3)" id="28" />
+      <edge source="(0, 0, 0)" target="(2, 0, 0)" id="29" />
+      <edge source="(0, 0, 0)" target="(2, 1, 0)" id="30" />
+      <edge source="(0, 0, 0)" target="(2, 1, 1)" id="31" />
+      <edge source="(0, 0, 0)" target="(2, 1, 2)" id="32" />
+      <edge source="(0, 0, 0)" target="(2, 1, 6)" id="33" />
+      <edge source="(0, 0, 0)" target="(2, 1, 7)" id="34" />
+      <edge source="(0, 0, 0)" target="(2, 2, 0)" id="35" />
+      <edge source="(0, 0, 0)" target="(2, 2, 5)" id="36" />
+      <edge source="(0, 0, 0)" target="(2, 2, 7)" id="37" />
+      <edge source="(0, 0, 0)" target="(2, 4, 0)" id="38" />
+      <edge source="(0, 0, 0)" target="(2, 4, 5)" id="39" />
+      <edge source="(0, 0, 0)" target="(2, 4, 6)" id="40" />
+      <edge source="(0, 0, 0)" target="(2, 5, 2)" id="41" />
+      <edge source="(0, 0, 0)" target="(2, 5, 3)" id="42" />
+      <edge source="(0, 0, 0)" target="(2, 6, 1)" id="43" />
+      <edge source="(0, 0, 0)" target="(2, 6, 2)" id="44" />
+      <edge source="(0, 0, 0)" target="(2, 6, 4)" id="45" />
+      <edge source="(0, 0, 0)" target="(3, 0, 4)" id="46" />
+      <edge source="(0, 0, 0)" target="(3, 0, 5)" id="47" />
+      <edge source="(0, 0, 0)" target="(3, 1, 1)" id="48" />
+      <edge source="(0, 0, 0)" target="(3, 1, 2)" id="49" />
+      <edge source="(0, 0, 0)" target="(3, 1, 3)" id="50" />
+      <edge source="(0, 0, 0)" target="(3, 1, 6)" id="51" />
+      <edge source="(0, 0, 0)" target="(3, 2, 2)" id="52" />
+      <edge source="(0, 0, 0)" target="(3, 2, 6)" id="53" />
+      <edge source="(0, 0, 0)" target="(3, 3, 3)" id="54" />
+      <edge source="(0, 0, 0)" target="(3, 4, 0)" id="55" />
+      <edge source="(0, 0, 0)" target="(3, 4, 6)" id="56" />
+      <edge source="(0, 0, 0)" target="(3, 6, 5)" id="57" />
+      <edge source="(0, 0, 0)" target="(3, 7, 2)" id="58" />
+      <edge source="(0, 0, 0)" target="(3, 7, 7)" id="59" />
+      <edge source="(0, 0, 0)" target="(4, 0, 1)" id="60" />
+      <edge source="(0, 0, 0)" target="(4, 0, 2)" id="61" />
+      <edge source="(0, 0, 0)" target="(4, 1, 0)" id="62" />
+      <edge source="(0, 0, 0)" target="(4, 1, 4)" id="63" />
+      <edge source="(0, 0, 0)" target="(4, 2, 5)" id="64" />
+      <edge source="(0, 0, 0)" target="(4, 3, 4)" id="65" />
+      <edge source="(0, 0, 0)" target="(4, 4, 2)" id="66" />
+      <edge source="(0, 0, 0)" target="(4, 5, 1)" id="67" />
+      <edge source="(0, 0, 0)" target="(4, 5, 2)" id="68" />
+      <edge source="(0, 0, 0)" target="(4, 5, 3)" id="69" />
+      <edge source="(0, 0, 0)" target="(4, 5, 7)" id="70" />
+      <edge source="(0, 0, 0)" target="(4, 6, 6)" id="71" />
+      <edge source="(0, 0, 0)" target="(4, 7, 4)" id="72" />
+      <edge source="(0, 0, 0)" target="(5, 0, 1)" id="73" />
+      <edge source="(0, 0, 0)" target="(5, 0, 2)" id="74" />
+      <edge source="(0, 0, 0)" target="(5, 0, 4)" id="75" />
+      <edge source="(0, 0, 0)" target="(5, 1, 2)" id="76" />
+      <edge source="(0, 0, 0)" target="(5, 1, 6)" id="77" />
+      <edge source="(0, 0, 0)" target="(5, 2, 4)" id="78" />
+      <edge source="(0, 0, 0)" target="(5, 3, 0)" id="79" />
+      <edge source="(0, 0, 0)" target="(5, 3, 7)" id="80" />
+      <edge source="(0, 0, 0)" target="(5, 4, 1)" id="81" />
+      <edge source="(0, 0, 0)" target="(5, 4, 3)" id="82" />
+      <edge source="(0, 0, 0)" target="(5, 5, 0)" id="83" />
+      <edge source="(0, 0, 0)" target="(5, 5, 7)" id="84" />
+      <edge source="(0, 0, 0)" target="(5, 6, 1)" id="85" />
+      <edge source="(0, 0, 0)" target="(5, 6, 3)" id="86" />
+      <edge source="(0, 0, 0)" target="(5, 6, 4)" id="87" />
+      <edge source="(0, 0, 0)" target="(6, 0, 0)" id="88" />
+      <edge source="(0, 0, 0)" target="(6, 0, 1)" id="89" />
+      <edge source="(0, 0, 0)" target="(6, 0, 5)" id="90" />
+      <edge source="(0, 0, 0)" target="(6, 0, 6)" id="91" />
+      <edge source="(0, 0, 0)" target="(6, 1, 0)" id="92" />
+      <edge source="(0, 0, 0)" target="(6, 1, 4)" id="93" />
+      <edge source="(0, 0, 0)" target="(6, 1, 5)" id="94" />
+      <edge source="(0, 0, 0)" target="(6, 2, 6)" id="95" />
+      <edge source="(0, 0, 0)" target="(6, 2, 7)" id="96" />
+      <edge source="(0, 0, 0)" target="(6, 3, 2)" id="97" />
+      <edge source="(0, 0, 0)" target="(6, 3, 3)" id="98" />
+      <edge source="(0, 0, 0)" target="(6, 3, 4)" id="99" />
+      <edge source="(0, 0, 0)" target="(6, 3, 5)" id="100" />
+      <edge source="(0, 0, 0)" target="(6, 4, 2)" id="101" />
+      <edge source="(0, 0, 0)" target="(6, 4, 5)" id="102" />
+      <edge source="(0, 0, 0)" target="(6, 4, 6)" id="103" />
+      <edge source="(0, 0, 0)" target="(6, 5, 0)" id="104" />
+      <edge source="(0, 0, 0)" target="(6, 5, 2)" id="105" />
+      <edge source="(0, 0, 0)" target="(6, 5, 7)" id="106" />
+      <edge source="(0, 0, 0)" target="(6, 6, 0)" id="107" />
+      <edge source="(0, 0, 0)" target="(6, 6, 1)" id="108" />
+      <edge source="(0, 0, 0)" target="(6, 6, 2)" id="109" />
+      <edge source="(0, 0, 0)" target="(6, 6, 5)" id="110" />
+      <edge source="(0, 0, 0)" target="(7, 0, 5)" id="111" />
+      <edge source="(0, 0, 0)" target="(7, 0, 7)" id="112" />
+      <edge source="(0, 0, 0)" target="(7, 2, 0)" id="113" />
+      <edge source="(0, 0, 0)" target="(7, 2, 1)" id="114" />
+      <edge source="(0, 0, 0)" target="(7, 2, 2)" id="115" />
+      <edge source="(0, 0, 0)" target="(7, 2, 6)" id="116" />
+      <edge source="(0, 0, 0)" target="(7, 3, 1)" id="117" />
+      <edge source="(0, 0, 0)" target="(7, 4, 1)" id="118" />
+      <edge source="(0, 0, 0)" target="(7, 4, 7)" id="119" />
+      <edge source="(0, 0, 0)" target="(7, 5, 4)" id="120" />
+      <edge source="(0, 0, 0)" target="(7, 5, 5)" id="121" />
+      <edge source="(0, 0, 0)" target="(7, 7, 4)" id="122" />
+      <edge source="(0, 0, 0)" target="(7, 7, 7)" id="123" />
+      <edge source="(0, 0, 2)" target="(0, 1, 0)" id="124" />
+      <edge source="(0, 0, 2)" target="(0, 1, 2)" id="125" />
+      <edge source="(0, 0, 2)" target="(0, 2, 4)" id="126" />
+      <edge source="(0, 0, 2)" target="(0, 2, 5)" id="127" />
+      <edge source="(0, 0, 2)" target="(0, 2, 7)" id="128" />
+      <edge source="(0, 0, 2)" target="(0, 3, 4)" id="129" />
+      <edge source="(0, 0, 2)" target="(0, 3, 5)" id="130" />
+      <edge source="(0, 0, 2)" target="(0, 4, 0)" id="131" />
+      <edge source="(0, 0, 2)" target="(0, 4, 2)" id="132" />
+      <edge source="(0, 0, 2)" target="(0, 4, 5)" id="133" />
+      <edge source="(0, 0, 2)" target="(0, 5, 1)" id="134" />
+      <edge source="(0, 0, 2)" target="(0, 5, 3)" id="135" />
+      <edge source="(0, 0, 2)" target="(0, 5, 4)" id="136" />
+      <edge source="(0, 0, 2)" target="(0, 5, 5)" id="137" />
+      <edge source="(0, 0, 2)" target="(0, 6, 3)" id="138" />
+      <edge source="(0, 0, 2)" target="(0, 6, 6)" id="139" />
+      <edge source="(0, 0, 2)" target="(0, 7, 2)" id="140" />
+      <edge source="(0, 0, 2)" target="(0, 7, 5)" id="141" />
+      <edge source="(0, 0, 2)" target="(0, 7, 6)" id="142" />
+      <edge source="(0, 0, 2)" target="(1, 0, 0)" id="143" />
+      <edge source="(0, 0, 2)" target="(1, 0, 3)" id="144" />
+      <edge source="(0, 0, 2)" target="(1, 1, 3)" id="145" />
+      <edge source="(0, 0, 2)" target="(1, 2, 2)" id="146" />
+      <edge source="(0, 0, 2)" target="(1, 3, 2)" id="147" />
+      <edge source="(0, 0, 2)" target="(1, 4, 5)" id="148" />
+      <edge source="(0, 0, 2)" target="(1, 4, 7)" id="149" />
+      <edge source="(0, 0, 2)" target="(1, 5, 5)" id="150" />
+      <edge source="(0, 0, 2)" target="(1, 5, 6)" id="151" />
+      <edge source="(0, 0, 2)" target="(1, 6, 1)" id="152" />
+      <edge source="(0, 0, 2)" target="(1, 6, 2)" id="153" />
+      <edge source="(0, 0, 2)" target="(1, 6, 4)" id="154" />
+      <edge source="(0, 0, 2)" target="(1, 7, 1)" id="155" />
+      <edge source="(0, 0, 2)" target="(1, 7, 5)" id="156" />
+      <edge source="(0, 0, 2)" target="(2, 0, 5)" id="157" />
+      <edge source="(0, 0, 2)" target="(2, 1, 3)" id="158" />
+      <edge source="(0, 0, 2)" target="(2, 3, 5)" id="159" />
+      <edge source="(0, 0, 2)" target="(2, 4, 1)" id="160" />
+      <edge source="(0, 0, 2)" target="(2, 4, 7)" id="161" />
+      <edge source="(0, 0, 2)" target="(2, 5, 5)" id="162" />
+      <edge source="(0, 0, 2)" target="(2, 6, 3)" id="163" />
+      <edge source="(0, 0, 2)" target="(2, 6, 5)" id="164" />
+      <edge source="(0, 0, 2)" target="(2, 7, 0)" id="165" />
+      <edge source="(0, 0, 2)" target="(2, 7, 2)" id="166" />
+      <edge source="(0, 0, 2)" target="(2, 7, 7)" id="167" />
+      <edge source="(0, 0, 2)" target="(3, 0, 2)" id="168" />
+      <edge source="(0, 0, 2)" target="(3, 0, 3)" id="169" />
+      <edge source="(0, 0, 2)" target="(3, 2, 0)" id="170" />
+      <edge source="(0, 0, 2)" target="(3, 2, 1)" id="171" />
+      <edge source="(0, 0, 2)" target="(3, 2, 4)" id="172" />
+      <edge source="(0, 0, 2)" target="(3, 2, 7)" id="173" />
+      <edge source="(0, 0, 2)" target="(3, 3, 2)" id="174" />
+      <edge source="(0, 0, 2)" target="(3, 4, 1)" id="175" />
+      <edge source="(0, 0, 2)" target="(3, 5, 3)" id="176" />
+      <edge source="(0, 0, 2)" target="(3, 5, 4)" id="177" />
+      <edge source="(0, 0, 2)" target="(3, 5, 5)" id="178" />
+      <edge source="(0, 0, 2)" target="(3, 6, 1)" id="179" />
+      <edge source="(0, 0, 2)" target="(3, 6, 3)" id="180" />
+      <edge source="(0, 0, 2)" target="(3, 6, 4)" id="181" />
+      <edge source="(0, 0, 2)" target="(3, 7, 1)" id="182" />
+      <edge source="(0, 0, 2)" target="(4, 0, 3)" id="183" />
+      <edge source="(0, 0, 2)" target="(4, 0, 6)" id="184" />
+      <edge source="(0, 0, 2)" target="(4, 0, 7)" id="185" />
+      <edge source="(0, 0, 2)" target="(4, 1, 2)" id="186" />
+      <edge source="(0, 0, 2)" target="(4, 1, 3)" id="187" />
+      <edge source="(0, 0, 2)" target="(4, 2, 0)" id="188" />
+      <edge source="(0, 0, 2)" target="(4, 2, 3)" id="189" />
+      <edge source="(0, 0, 2)" target="(4, 3, 6)" id="190" />
+      <edge source="(0, 0, 2)" target="(4, 4, 1)" id="191" />
+      <edge source="(0, 0, 2)" target="(4, 4, 5)" id="192" />
+      <edge source="(0, 0, 2)" target="(4, 5, 5)" id="193" />
+      <edge source="(0, 0, 2)" target="(4, 6, 0)" id="194" />
+      <edge source="(0, 0, 2)" target="(4, 6, 3)" id="195" />
+      <edge source="(0, 0, 2)" target="(4, 6, 7)" id="196" />
+      <edge source="(0, 0, 2)" target="(4, 7, 0)" id="197" />
+      <edge source="(0, 0, 2)" target="(4, 7, 5)" id="198" />
+      <edge source="(0, 0, 2)" target="(4, 7, 6)" id="199" />
+      <edge source="(0, 0, 2)" target="(5, 0, 6)" id="200" />
+      <edge source="(0, 0, 2)" target="(5, 1, 1)" id="201" />
+      <edge source="(0, 0, 2)" target="(5, 1, 4)" id="202" />
+      <edge source="(0, 0, 2)" target="(5, 2, 3)" id="203" />
+      <edge source="(0, 0, 2)" target="(5, 2, 5)" id="204" />
+      <edge source="(0, 0, 2)" target="(5, 2, 7)" id="205" />
+      <edge source="(0, 0, 2)" target="(5, 3, 5)" id="206" />
+      <edge source="(0, 0, 2)" target="(5, 4, 2)" id="207" />
+      <edge source="(0, 0, 2)" target="(5, 4, 4)" id="208" />
+      <edge source="(0, 0, 2)" target="(5, 5, 4)" id="209" />
+      <edge source="(0, 0, 2)" target="(5, 5, 6)" id="210" />
+      <edge source="(0, 0, 2)" target="(5, 6, 2)" id="211" />
+      <edge source="(0, 0, 2)" target="(5, 7, 7)" id="212" />
+      <edge source="(0, 0, 2)" target="(6, 0, 2)" id="213" />
+      <edge source="(0, 0, 2)" target="(6, 1, 2)" id="214" />
+      <edge source="(0, 0, 2)" target="(6, 1, 6)" id="215" />
+      <edge source="(0, 0, 2)" target="(6, 2, 1)" id="216" />
+      <edge source="(0, 0, 2)" target="(6, 2, 3)" id="217" />
+      <edge source="(0, 0, 2)" target="(6, 3, 7)" id="218" />
+      <edge source="(0, 0, 2)" target="(6, 4, 3)" id="219" />
+      <edge source="(0, 0, 2)" target="(6, 4, 4)" id="220" />
+      <edge source="(0, 0, 2)" target="(6, 4, 7)" id="221" />
+      <edge source="(0, 0, 2)" target="(6, 5, 1)" id="222" />
+      <edge source="(0, 0, 2)" target="(6, 5, 3)" id="223" />
+      <edge source="(0, 0, 2)" target="(6, 5, 6)" id="224" />
+      <edge source="(0, 0, 2)" target="(6, 7, 0)" id="225" />
+      <edge source="(0, 0, 2)" target="(6, 7, 1)" id="226" />
+      <edge source="(0, 0, 2)" target="(6, 7, 2)" id="227" />
+      <edge source="(0, 0, 2)" target="(6, 7, 6)" id="228" />
+      <edge source="(0, 0, 2)" target="(6, 7, 7)" id="229" />
+      <edge source="(0, 0, 2)" target="(7, 0, 1)" id="230" />
+      <edge source="(0, 0, 2)" target="(7, 1, 0)" id="231" />
+      <edge source="(0, 0, 2)" target="(7, 1, 7)" id="232" />
+      <edge source="(0, 0, 2)" target="(7, 4, 3)" id="233" />
+      <edge source="(0, 0, 2)" target="(7, 4, 4)" id="234" />
+      <edge source="(0, 0, 2)" target="(7, 4, 6)" id="235" />
+      <edge source="(0, 0, 2)" target="(7, 5, 0)" id="236" />
+      <edge source="(0, 0, 2)" target="(7, 5, 1)" id="237" />
+      <edge source="(0, 0, 2)" target="(7, 6, 0)" id="238" />
+      <edge source="(0, 0, 2)" target="(7, 6, 4)" id="239" />
+      <edge source="(0, 0, 2)" target="(7, 7, 1)" id="240" />
+      <edge source="(0, 0, 3)" target="(0, 1, 1)" id="241" />
+      <edge source="(0, 0, 3)" target="(0, 4, 1)" id="242" />
+      <edge source="(0, 0, 3)" target="(0, 4, 4)" id="243" />
+      <edge source="(0, 0, 3)" target="(0, 4, 6)" id="244" />
+      <edge source="(0, 0, 3)" target="(0, 4, 7)" id="245" />
+      <edge source="(0, 0, 3)" target="(0, 5, 2)" id="246" />
+      <edge source="(0, 0, 3)" target="(0, 5, 6)" id="247" />
+      <edge source="(0, 0, 3)" target="(0, 6, 2)" id="248" />
+      <edge source="(0, 0, 3)" target="(0, 6, 4)" id="249" />
+      <edge source="(0, 0, 3)" target="(0, 6, 5)" id="250" />
+      <edge source="(0, 0, 3)" target="(0, 7, 1)" id="251" />
+      <edge source="(0, 0, 3)" target="(0, 7, 3)" id="252" />
+      <edge source="(0, 0, 3)" target="(1, 0, 5)" id="253" />
+      <edge source="(0, 0, 3)" target="(1, 1, 0)" id="254" />
+      <edge source="(0, 0, 3)" target="(1, 1, 4)" id="255" />
+      <edge source="(0, 0, 3)" target="(1, 1, 6)" id="256" />
+      <edge source="(0, 0, 3)" target="(1, 3, 3)" id="257" />
+      <edge source="(0, 0, 3)" target="(1, 3, 4)" id="258" />
+      <edge source="(0, 0, 3)" target="(1, 3, 5)" id="259" />
+      <edge source="(0, 0, 3)" target="(1, 3, 6)" id="260" />
+      <edge source="(0, 0, 3)" target="(1, 3, 7)" id="261" />
+      <edge source="(0, 0, 3)" target="(1, 4, 0)" id="262" />
+      <edge source="(0, 0, 3)" target="(1, 4, 1)" id="263" />
+      <edge source="(0, 0, 3)" target="(1, 4, 6)" id="264" />
+      <edge source="(0, 0, 3)" target="(1, 5, 2)" id="265" />
+      <edge source="(0, 0, 3)" target="(1, 5, 7)" id="266" />
+      <edge source="(0, 0, 3)" target="(1, 6, 0)" id="267" />
+      <edge source="(0, 0, 3)" target="(1, 6, 6)" id="268" />
+      <edge source="(0, 0, 3)" target="(1, 7, 0)" id="269" />
+      <edge source="(0, 0, 3)" target="(1, 7, 6)" id="270" />
+      <edge source="(0, 0, 3)" target="(2, 0, 2)" id="271" />
+      <edge source="(0, 0, 3)" target="(2, 0, 3)" id="272" />
+      <edge source="(0, 0, 3)" target="(2, 0, 6)" id="273" />
+      <edge source="(0, 0, 3)" target="(2, 1, 4)" id="274" />
+      <edge source="(0, 0, 3)" target="(2, 2, 2)" id="275" />
+      <edge source="(0, 0, 3)" target="(2, 2, 3)" id="276" />
+      <edge source="(0, 0, 3)" target="(2, 2, 6)" id="277" />
+      <edge source="(0, 0, 3)" target="(2, 3, 6)" id="278" />
+      <edge source="(0, 0, 3)" target="(2, 3, 7)" id="279" />
+      <edge source="(0, 0, 3)" target="(2, 4, 3)" id="280" />
+      <edge source="(0, 0, 3)" target="(2, 4, 4)" id="281" />
+      <edge source="(0, 0, 3)" target="(2, 5, 1)" id="282" />
+      <edge source="(0, 0, 3)" target="(2, 5, 4)" id="283" />
+      <edge source="(0, 0, 3)" target="(2, 5, 6)" id="284" />
+      <edge source="(0, 0, 3)" target="(2, 5, 7)" id="285" />
+      <edge source="(0, 0, 3)" target="(2, 6, 0)" id="286" />
+      <edge source="(0, 0, 3)" target="(2, 6, 6)" id="287" />
+      <edge source="(0, 0, 3)" target="(2, 7, 1)" id="288" />
+      <edge source="(0, 0, 3)" target="(2, 7, 4)" id="289" />
+      <edge source="(0, 0, 3)" target="(2, 7, 6)" id="290" />
+      <edge source="(0, 0, 3)" target="(3, 0, 0)" id="291" />
+      <edge source="(0, 0, 3)" target="(3, 0, 1)" id="292" />
+      <edge source="(0, 0, 3)" target="(3, 0, 6)" id="293" />
+      <edge source="(0, 0, 3)" target="(3, 0, 7)" id="294" />
+      <edge source="(0, 0, 3)" target="(3, 1, 5)" id="295" />
+      <edge source="(0, 0, 3)" target="(3, 2, 3)" id="296" />
+      <edge source="(0, 0, 3)" target="(3, 3, 4)" id="297" />
+      <edge source="(0, 0, 3)" target="(3, 3, 5)" id="298" />
+      <edge source="(0, 0, 3)" target="(3, 3, 6)" id="299" />
+      <edge source="(0, 0, 3)" target="(3, 4, 2)" id="300" />
+      <edge source="(0, 0, 3)" target="(3, 4, 3)" id="301" />
+      <edge source="(0, 0, 3)" target="(3, 4, 7)" id="302" />
+      <edge source="(0, 0, 3)" target="(3, 5, 2)" id="303" />
+      <edge source="(0, 0, 3)" target="(3, 5, 6)" id="304" />
+      <edge source="(0, 0, 3)" target="(3, 5, 7)" id="305" />
+      <edge source="(0, 0, 3)" target="(3, 6, 0)" id="306" />
+      <edge source="(0, 0, 3)" target="(3, 6, 6)" id="307" />
+      <edge source="(0, 0, 3)" target="(3, 6, 7)" id="308" />
+      <edge source="(0, 0, 3)" target="(3, 7, 4)" id="309" />
+      <edge source="(0, 0, 3)" target="(3, 7, 5)" id="310" />
+      <edge source="(0, 0, 3)" target="(3, 7, 6)" id="311" />
+      <edge source="(0, 0, 3)" target="(4, 1, 1)" id="312" />
+      <edge source="(0, 0, 3)" target="(4, 1, 5)" id="313" />
+      <edge source="(0, 0, 3)" target="(4, 1, 7)" id="314" />
+      <edge source="(0, 0, 3)" target="(4, 2, 1)" id="315" />
+      <edge source="(0, 0, 3)" target="(4, 2, 7)" id="316" />
+      <edge source="(0, 0, 3)" target="(4, 3, 1)" id="317" />
+      <edge source="(0, 0, 3)" target="(4, 3, 7)" id="318" />
+      <edge source="(0, 0, 3)" target="(4, 4, 0)" id="319" />
+      <edge source="(0, 0, 3)" target="(4, 4, 3)" id="320" />
+      <edge source="(0, 0, 3)" target="(4, 4, 4)" id="321" />
+      <edge source="(0, 0, 3)" target="(4, 4, 7)" id="322" />
+      <edge source="(0, 0, 3)" target="(4, 5, 0)" id="323" />
+      <edge source="(0, 0, 3)" target="(4, 6, 1)" id="324" />
+      <edge source="(0, 0, 3)" target="(4, 6, 4)" id="325" />
+      <edge source="(0, 0, 3)" target="(4, 7, 2)" id="326" />
+      <edge source="(0, 0, 3)" target="(4, 7, 3)" id="327" />
+      <edge source="(0, 0, 3)" target="(4, 7, 7)" id="328" />
+      <edge source="(0, 0, 3)" target="(5, 0, 7)" id="329" />
+      <edge source="(0, 0, 3)" target="(5, 1, 0)" id="330" />
+      <edge source="(0, 0, 3)" target="(5, 1, 5)" id="331" />
+      <edge source="(0, 0, 3)" target="(5, 1, 7)" id="332" />
+      <edge source="(0, 0, 3)" target="(5, 2, 2)" id="333" />
+      <edge source="(0, 0, 3)" target="(5, 3, 3)" id="334" />
+      <edge source="(0, 0, 3)" target="(5, 3, 4)" id="335" />
+      <edge source="(0, 0, 3)" target="(5, 4, 0)" id="336" />
+      <edge source="(0, 0, 3)" target="(5, 4, 7)" id="337" />
+      <edge source="(0, 0, 3)" target="(5, 5, 3)" id="338" />
+      <edge source="(0, 0, 3)" target="(5, 6, 7)" id="339" />
+      <edge source="(0, 0, 3)" target="(5, 7, 0)" id="340" />
+      <edge source="(0, 0, 3)" target="(5, 7, 5)" id="341" />
+      <edge source="(0, 0, 3)" target="(5, 7, 6)" id="342" />
+      <edge source="(0, 0, 3)" target="(6, 0, 7)" id="343" />
+      <edge source="(0, 0, 3)" target="(6, 1, 1)" id="344" />
+      <edge source="(0, 0, 3)" target="(6, 1, 7)" id="345" />
+      <edge source="(0, 0, 3)" target="(6, 2, 5)" id="346" />
+      <edge source="(0, 0, 3)" target="(6, 3, 0)" id="347" />
+      <edge source="(0, 0, 3)" target="(6, 3, 1)" id="348" />
+      <edge source="(0, 0, 3)" target="(6, 3, 6)" id="349" />
+      <edge source="(0, 0, 3)" target="(6, 4, 0)" id="350" />
+      <edge source="(0, 0, 3)" target="(6, 4, 1)" id="351" />
+      <edge source="(0, 0, 3)" target="(6, 5, 4)" id="352" />
+      <edge source="(0, 0, 3)" target="(6, 6, 6)" id="353" />
+      <edge source="(0, 0, 3)" target="(6, 7, 3)" id="354" />
+      <edge source="(0, 0, 3)" target="(6, 7, 4)" id="355" />
+      <edge source="(0, 0, 3)" target="(7, 0, 0)" id="356" />
+      <edge source="(0, 0, 3)" target="(7, 0, 2)" id="357" />
+      <edge source="(0, 0, 3)" target="(7, 0, 3)" id="358" />
+      <edge source="(0, 0, 3)" target="(7, 0, 6)" id="359" />
+      <edge source="(0, 0, 3)" target="(7, 1, 1)" id="360" />
+      <edge source="(0, 0, 3)" target="(7, 1, 2)" id="361" />
+      <edge source="(0, 0, 3)" target="(7, 1, 3)" id="362" />
+      <edge source="(0, 0, 3)" target="(7, 1, 4)" id="363" />
+      <edge source="(0, 0, 3)" target="(7, 1, 6)" id="364" />
+      <edge source="(0, 0, 3)" target="(7, 2, 3)" id="365" />
+      <edge source="(0, 0, 3)" target="(7, 2, 5)" id="366" />
+      <edge source="(0, 0, 3)" target="(7, 3, 0)" id="367" />
+      <edge source="(0, 0, 3)" target="(7, 3, 3)" id="368" />
+      <edge source="(0, 0, 3)" target="(7, 3, 5)" id="369" />
+      <edge source="(0, 0, 3)" target="(7, 3, 6)" id="370" />
+      <edge source="(0, 0, 3)" target="(7, 4, 0)" id="371" />
+      <edge source="(0, 0, 3)" target="(7, 5, 2)" id="372" />
+      <edge source="(0, 0, 3)" target="(7, 5, 3)" id="373" />
+      <edge source="(0, 0, 3)" target="(7, 5, 6)" id="374" />
+      <edge source="(0, 0, 3)" target="(7, 6, 2)" id="375" />
+      <edge source="(0, 0, 3)" target="(7, 6, 3)" id="376" />
+      <edge source="(0, 0, 3)" target="(7, 6, 5)" id="377" />
+      <edge source="(0, 0, 3)" target="(7, 6, 6)" id="378" />
+      <edge source="(0, 0, 3)" target="(7, 6, 7)" id="379" />
+      <edge source="(0, 0, 3)" target="(7, 7, 3)" id="380" />
+      <edge source="(0, 0, 3)" target="(7, 7, 6)" id="381" />
+      <edge source="(0, 0, 5)" target="(0, 0, 6)" id="382" />
+      <edge source="(0, 0, 5)" target="(0, 1, 3)" id="383" />
+      <edge source="(0, 0, 5)" target="(0, 1, 5)" id="384" />
+      <edge source="(0, 0, 5)" target="(0, 1, 6)" id="385" />
+      <edge source="(0, 0, 5)" target="(0, 1, 7)" id="386" />
+      <edge source="(0, 0, 5)" target="(0, 2, 1)" id="387" />
+      <edge source="(0, 0, 5)" target="(0, 2, 2)" id="388" />
+      <edge source="(0, 0, 5)" target="(0, 2, 3)" id="389" />
+      <edge source="(0, 0, 5)" target="(0, 3, 0)" id="390" />
+      <edge source="(0, 0, 5)" target="(0, 3, 2)" id="391" />
+      <edge source="(0, 0, 5)" target="(0, 3, 3)" id="392" />
+      <edge source="(0, 0, 5)" target="(0, 4, 3)" id="393" />
+      <edge source="(0, 0, 5)" target="(0, 5, 0)" id="394" />
+      <edge source="(0, 0, 5)" target="(0, 5, 7)" id="395" />
+      <edge source="(0, 0, 5)" target="(0, 6, 0)" id="396" />
+      <edge source="(0, 0, 5)" target="(0, 6, 1)" id="397" />
+      <edge source="(0, 0, 5)" target="(1, 0, 1)" id="398" />
+      <edge source="(0, 0, 5)" target="(1, 0, 7)" id="399" />
+      <edge source="(0, 0, 5)" target="(1, 1, 1)" id="400" />
+      <edge source="(0, 0, 5)" target="(1, 1, 2)" id="401" />
+      <edge source="(0, 0, 5)" target="(1, 1, 5)" id="402" />
+      <edge source="(0, 0, 5)" target="(1, 1, 7)" id="403" />
+      <edge source="(0, 0, 5)" target="(1, 2, 0)" id="404" />
+      <edge source="(0, 0, 5)" target="(1, 2, 1)" id="405" />
+      <edge source="(0, 0, 5)" target="(1, 2, 6)" id="406" />
+      <edge source="(0, 0, 5)" target="(1, 2, 7)" id="407" />
+      <edge source="(0, 0, 5)" target="(1, 4, 4)" id="408" />
+      <edge source="(0, 0, 5)" target="(1, 5, 1)" id="409" />
+      <edge source="(0, 0, 5)" target="(1, 6, 3)" id="410" />
+      <edge source="(0, 0, 5)" target="(1, 6, 7)" id="411" />
+      <edge source="(0, 0, 5)" target="(1, 7, 4)" id="412" />
+      <edge source="(0, 0, 5)" target="(1, 7, 7)" id="413" />
+      <edge source="(0, 0, 5)" target="(2, 0, 1)" id="414" />
+      <edge source="(0, 0, 5)" target="(2, 0, 4)" id="415" />
+      <edge source="(0, 0, 5)" target="(2, 0, 7)" id="416" />
+      <edge source="(0, 0, 5)" target="(2, 1, 5)" id="417" />
+      <edge source="(0, 0, 5)" target="(2, 2, 1)" id="418" />
+      <edge source="(0, 0, 5)" target="(2, 2, 4)" id="419" />
+      <edge source="(0, 0, 5)" target="(2, 3, 0)" id="420" />
+      <edge source="(0, 0, 5)" target="(2, 3, 1)" id="421" />
+      <edge source="(0, 0, 5)" target="(2, 3, 2)" id="422" />
+      <edge source="(0, 0, 5)" target="(2, 3, 3)" id="423" />
+      <edge source="(0, 0, 5)" target="(2, 3, 4)" id="424" />
+      <edge source="(0, 0, 5)" target="(2, 4, 2)" id="425" />
+      <edge source="(0, 0, 5)" target="(2, 5, 0)" id="426" />
+      <edge source="(0, 0, 5)" target="(2, 6, 7)" id="427" />
+      <edge source="(0, 0, 5)" target="(2, 7, 3)" id="428" />
+      <edge source="(0, 0, 5)" target="(2, 7, 5)" id="429" />
+      <edge source="(0, 0, 5)" target="(3, 1, 0)" id="430" />
+      <edge source="(0, 0, 5)" target="(3, 1, 4)" id="431" />
+      <edge source="(0, 0, 5)" target="(3, 1, 7)" id="432" />
+      <edge source="(0, 0, 5)" target="(3, 2, 5)" id="433" />
+      <edge source="(0, 0, 5)" target="(3, 3, 0)" id="434" />
+      <edge source="(0, 0, 5)" target="(3, 3, 1)" id="435" />
+      <edge source="(0, 0, 5)" target="(3, 3, 7)" id="436" />
+      <edge source="(0, 0, 5)" target="(3, 4, 4)" id="437" />
+      <edge source="(0, 0, 5)" target="(3, 4, 5)" id="438" />
+      <edge source="(0, 0, 5)" target="(3, 5, 0)" id="439" />
+      <edge source="(0, 0, 5)" target="(3, 5, 1)" id="440" />
+      <edge source="(0, 0, 5)" target="(3, 6, 2)" id="441" />
+      <edge source="(0, 0, 5)" target="(3, 7, 0)" id="442" />
+      <edge source="(0, 0, 5)" target="(3, 7, 3)" id="443" />
+      <edge source="(0, 0, 5)" target="(4, 0, 0)" id="444" />
+      <edge source="(0, 0, 5)" target="(4, 0, 4)" id="445" />
+      <edge source="(0, 0, 5)" target="(4, 0, 5)" id="446" />
+      <edge source="(0, 0, 5)" target="(4, 1, 6)" id="447" />
+      <edge source="(0, 0, 5)" target="(4, 2, 2)" id="448" />
+      <edge source="(0, 0, 5)" target="(4, 2, 4)" id="449" />
+      <edge source="(0, 0, 5)" target="(4, 2, 6)" id="450" />
+      <edge source="(0, 0, 5)" target="(4, 3, 0)" id="451" />
+      <edge source="(0, 0, 5)" target="(4, 3, 2)" id="452" />
+      <edge source="(0, 0, 5)" target="(4, 3, 3)" id="453" />
+      <edge source="(0, 0, 5)" target="(4, 3, 5)" id="454" />
+      <edge source="(0, 0, 5)" target="(4, 4, 6)" id="455" />
+      <edge source="(0, 0, 5)" target="(4, 5, 4)" id="456" />
+      <edge source="(0, 0, 5)" target="(4, 5, 6)" id="457" />
+      <edge source="(0, 0, 5)" target="(4, 6, 2)" id="458" />
+      <edge source="(0, 0, 5)" target="(4, 6, 5)" id="459" />
+      <edge source="(0, 0, 5)" target="(4, 7, 1)" id="460" />
+      <edge source="(0, 0, 5)" target="(5, 0, 0)" id="461" />
+      <edge source="(0, 0, 5)" target="(5, 0, 3)" id="462" />
+      <edge source="(0, 0, 5)" target="(5, 0, 5)" id="463" />
+      <edge source="(0, 0, 5)" target="(5, 1, 3)" id="464" />
+      <edge source="(0, 0, 5)" target="(5, 2, 0)" id="465" />
+      <edge source="(0, 0, 5)" target="(5, 2, 1)" id="466" />
+      <edge source="(0, 0, 5)" target="(5, 2, 6)" id="467" />
+      <edge source="(0, 0, 5)" target="(5, 3, 1)" id="468" />
+      <edge source="(0, 0, 5)" target="(5, 3, 2)" id="469" />
+      <edge source="(0, 0, 5)" target="(5, 3, 6)" id="470" />
+      <edge source="(0, 0, 5)" target="(5, 4, 5)" id="471" />
+      <edge source="(0, 0, 5)" target="(5, 4, 6)" id="472" />
+      <edge source="(0, 0, 5)" target="(5, 5, 1)" id="473" />
+      <edge source="(0, 0, 5)" target="(5, 5, 2)" id="474" />
+      <edge source="(0, 0, 5)" target="(5, 5, 5)" id="475" />
+      <edge source="(0, 0, 5)" target="(5, 6, 0)" id="476" />
+      <edge source="(0, 0, 5)" target="(5, 6, 5)" id="477" />
+      <edge source="(0, 0, 5)" target="(5, 6, 6)" id="478" />
+      <edge source="(0, 0, 5)" target="(5, 7, 1)" id="479" />
+      <edge source="(0, 0, 5)" target="(5, 7, 2)" id="480" />
+      <edge source="(0, 0, 5)" target="(5, 7, 3)" id="481" />
+      <edge source="(0, 0, 5)" target="(5, 7, 4)" id="482" />
+      <edge source="(0, 0, 5)" target="(6, 0, 3)" id="483" />
+      <edge source="(0, 0, 5)" target="(6, 0, 4)" id="484" />
+      <edge source="(0, 0, 5)" target="(6, 1, 3)" id="485" />
+      <edge source="(0, 0, 5)" target="(6, 2, 0)" id="486" />
+      <edge source="(0, 0, 5)" target="(6, 2, 2)" id="487" />
+      <edge source="(0, 0, 5)" target="(6, 2, 4)" id="488" />
+      <edge source="(0, 0, 5)" target="(6, 5, 5)" id="489" />
+      <edge source="(0, 0, 5)" target="(6, 6, 3)" id="490" />
+      <edge source="(0, 0, 5)" target="(6, 6, 4)" id="491" />
+      <edge source="(0, 0, 5)" target="(6, 6, 7)" id="492" />
+      <edge source="(0, 0, 5)" target="(6, 7, 5)" id="493" />
+      <edge source="(0, 0, 5)" target="(7, 0, 4)" id="494" />
+      <edge source="(0, 0, 5)" target="(7, 1, 5)" id="495" />
+      <edge source="(0, 0, 5)" target="(7, 2, 4)" id="496" />
+      <edge source="(0, 0, 5)" target="(7, 2, 7)" id="497" />
+      <edge source="(0, 0, 5)" target="(7, 3, 2)" id="498" />
+      <edge source="(0, 0, 5)" target="(7, 3, 4)" id="499" />
+      <edge source="(0, 0, 5)" target="(7, 3, 7)" id="500" />
+      <edge source="(0, 0, 5)" target="(7, 4, 2)" id="501" />
+      <edge source="(0, 0, 5)" target="(7, 4, 5)" id="502" />
+      <edge source="(0, 0, 5)" target="(7, 5, 7)" id="503" />
+      <edge source="(0, 0, 5)" target="(7, 6, 1)" id="504" />
+      <edge source="(0, 0, 5)" target="(7, 7, 0)" id="505" />
+      <edge source="(0, 0, 5)" target="(7, 7, 2)" id="506" />
+      <edge source="(0, 0, 5)" target="(7, 7, 5)" id="507" />
+    </edges>
+  </graph>
+</gexf>
